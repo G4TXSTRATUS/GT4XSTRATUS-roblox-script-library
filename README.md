@@ -1,1 +1,2 @@
-these scripts only work in roblox's engine and must be r6
+the scripts that use character variables must be r6
+all of these scripts only work in the roblox engine
